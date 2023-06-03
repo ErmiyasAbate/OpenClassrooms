@@ -1,0 +1,16 @@
+body {
+    background-color: honeydew;
+}
+
+h1 {
+    color: green;
+}
+
+strong {
+    color: teal;
+    background-color: LemonChiffon;
+}
+
+a {
+    color: teal;
+}
